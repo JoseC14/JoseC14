@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é José Carlos, sou um aspirante a desenvolvedor full-stack em aplicações que são baseadas no protocolo HTTP, construindo soluções confiáveis, escaláveis e tolerantes a falhas </h2>
+<h2 align="left">Olá 👋! Meu nome é José Carlos, sou um aspirante a cientista da computação focado em solucionar problemas e faciitar processos </h2>
 
 ###
 
